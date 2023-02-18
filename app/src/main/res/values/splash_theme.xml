@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppSplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_baseline_baby_changing_station_24</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/ic_baseline_baby_changing_station_24</item>
+        <item name="postSplashScreenTheme">@style/Theme.Design.NoActionBar</item>
+        <item name="windowSplashScreenAnimationDuration">14000</item>
+        <item name="windowSplashScreenBackground">#F02020</item>
+    </style>
+</resources>
